@@ -1,0 +1,16 @@
+public class Sum {
+    public static void main(String[] args) {
+        
+        int number1, number2, number3;
+        number1=5;
+        number2=6;
+        number3=10;
+        
+        int sum=number1+number2+number3;
+        
+        System.out.println("Sum is " +sum);
+    }
+}
+
+Output:
+Sum is 21
