@@ -11,6 +11,3 @@ public class Sum {
         System.out.println("Sum is " +sum);
     }
 }
-
-Output:
-Sum is 21
